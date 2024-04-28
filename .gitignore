@@ -1,8 +1,11 @@
 .DS_Store
+.vscode
 
 # python virtual environment
 .venv
 
 # dataset
 data/*.pth
-data/*.csv
+data/*.pt
+*.pth
+data/imageNet_images
